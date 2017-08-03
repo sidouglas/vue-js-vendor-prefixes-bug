@@ -56,6 +56,8 @@
     "npm": ">= 3.0.0"
   },
   "browserslist": [
-    "ie >= 8"
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
   ]
 }

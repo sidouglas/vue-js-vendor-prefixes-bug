@@ -1,0 +1,16 @@
+{
+  "name": "stackoverflow-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "vue": {
+      "version": "2.4.2",
+      "from": "vue@>=2.3.3 <3.0.0",
+      "resolved": "http://uscavs-repo1:8081/artifactory/api/npm/npm-aggregator/vue/-/vue-2.4.2.tgz"
+    },
+    "vue-router": {
+      "version": "2.7.0",
+      "from": "vue-router@>=2.6.0 <3.0.0",
+      "resolved": "http://uscavs-repo1:8081/artifactory/api/npm/npm-aggregator/vue-router/-/vue-router-2.7.0.tgz"
+    }
+  }
+}
